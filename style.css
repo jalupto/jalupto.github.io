@@ -66,6 +66,12 @@ body {
     vertical-align: middle;
 }
 
+.bi.bi-chevron-down {
+    position: relative;
+    stroke: #fff;
+    stroke-width: 2px;
+}
+
 .nav-button {
     position: relative;
     width: 101px;
